@@ -1,6 +1,6 @@
 import java.awt.event.*;
 import javax.swing.*;
-public class Cafe {
+public class Cafe{
     public static void main(String[] args) {
         JFrame frame = new JFrame("Food App");
         frame.setSize(400, 400);
